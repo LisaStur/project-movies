@@ -1,11 +1,8 @@
-# Project Movies
+# Movie Escapism
+Movie info and ratings for all your favourite Fantasy and Adventure films
 
-Technigo Remote Bootcamp Project to practice multipage React application, using API. Building a "popular movies" page where you can find info pages for each movie.
-
-## The problem
-
-Planned the project to consist of a main Film List page, and a Film Info page that fetches the information for each movie in question.
+## Technology
+Fetching info from "The Movie Database" https://www.themoviedb.org/ in React and React ROuter, using JavaScript and CSS for styling.
 
 ## View it live
-
 https://movie-project-technigo.netlify.app/
